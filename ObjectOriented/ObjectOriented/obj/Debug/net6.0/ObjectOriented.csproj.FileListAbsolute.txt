@@ -1,0 +1,15 @@
+C:\Users\fizz_\Documents\GitHub\.Net-basics\ObjectOriented\ObjectOriented\bin\Debug\net6.0\ObjectOriented.exe
+C:\Users\fizz_\Documents\GitHub\.Net-basics\ObjectOriented\ObjectOriented\bin\Debug\net6.0\ObjectOriented.deps.json
+C:\Users\fizz_\Documents\GitHub\.Net-basics\ObjectOriented\ObjectOriented\bin\Debug\net6.0\ObjectOriented.runtimeconfig.json
+C:\Users\fizz_\Documents\GitHub\.Net-basics\ObjectOriented\ObjectOriented\bin\Debug\net6.0\ObjectOriented.dll
+C:\Users\fizz_\Documents\GitHub\.Net-basics\ObjectOriented\ObjectOriented\bin\Debug\net6.0\ref\ObjectOriented.dll
+C:\Users\fizz_\Documents\GitHub\.Net-basics\ObjectOriented\ObjectOriented\bin\Debug\net6.0\ObjectOriented.pdb
+C:\Users\fizz_\Documents\GitHub\.Net-basics\ObjectOriented\ObjectOriented\obj\Debug\net6.0\ObjectOriented.csproj.AssemblyReference.cache
+C:\Users\fizz_\Documents\GitHub\.Net-basics\ObjectOriented\ObjectOriented\obj\Debug\net6.0\ObjectOriented.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fizz_\Documents\GitHub\.Net-basics\ObjectOriented\ObjectOriented\obj\Debug\net6.0\ObjectOriented.AssemblyInfoInputs.cache
+C:\Users\fizz_\Documents\GitHub\.Net-basics\ObjectOriented\ObjectOriented\obj\Debug\net6.0\ObjectOriented.AssemblyInfo.cs
+C:\Users\fizz_\Documents\GitHub\.Net-basics\ObjectOriented\ObjectOriented\obj\Debug\net6.0\ObjectOriented.csproj.CoreCompileInputs.cache
+C:\Users\fizz_\Documents\GitHub\.Net-basics\ObjectOriented\ObjectOriented\obj\Debug\net6.0\ObjectOriented.dll
+C:\Users\fizz_\Documents\GitHub\.Net-basics\ObjectOriented\ObjectOriented\obj\Debug\net6.0\ref\ObjectOriented.dll
+C:\Users\fizz_\Documents\GitHub\.Net-basics\ObjectOriented\ObjectOriented\obj\Debug\net6.0\ObjectOriented.pdb
+C:\Users\fizz_\Documents\GitHub\.Net-basics\ObjectOriented\ObjectOriented\obj\Debug\net6.0\ObjectOriented.genruntimeconfig.cache

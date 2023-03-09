@@ -101,6 +101,16 @@
             Console.WriteLine(i);
         }
 
+        decimal d = (decimal)1.23456789123456789;
+        Console.WriteLine(d); // Prints 1.23456789123457
+        decimal e = 1.23456789123456789M;
+        Console.WriteLine(e); // Prints 1.23456789123456789
+
+        List<int> listing = new List<int>()
+        {1, 2 , 3 , 4};
+        Console.WriteLine(listing[1]);
+
+
 
         //Console Read waits for the program to be terminated here
         Console.Read();

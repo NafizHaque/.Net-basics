@@ -1,0 +1,15 @@
+C:\Users\fizz_\Documents\GitHub\.Net-basics\Simple .Net ATM\Simple .Net ATM\obj\Debug\net6.0\Simple .Net ATM.csproj.AssemblyReference.cache
+C:\Users\fizz_\Documents\GitHub\.Net-basics\Simple .Net ATM\Simple .Net ATM\obj\Debug\net6.0\Simple .Net ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fizz_\Documents\GitHub\.Net-basics\Simple .Net ATM\Simple .Net ATM\obj\Debug\net6.0\Simple .Net ATM.AssemblyInfoInputs.cache
+C:\Users\fizz_\Documents\GitHub\.Net-basics\Simple .Net ATM\Simple .Net ATM\obj\Debug\net6.0\Simple .Net ATM.AssemblyInfo.cs
+C:\Users\fizz_\Documents\GitHub\.Net-basics\Simple .Net ATM\Simple .Net ATM\obj\Debug\net6.0\Simple .Net ATM.csproj.CoreCompileInputs.cache
+C:\Users\fizz_\Documents\GitHub\.Net-basics\Simple .Net ATM\Simple .Net ATM\bin\Debug\net6.0\Simple .Net ATM.exe
+C:\Users\fizz_\Documents\GitHub\.Net-basics\Simple .Net ATM\Simple .Net ATM\bin\Debug\net6.0\Simple .Net ATM.deps.json
+C:\Users\fizz_\Documents\GitHub\.Net-basics\Simple .Net ATM\Simple .Net ATM\bin\Debug\net6.0\Simple .Net ATM.runtimeconfig.json
+C:\Users\fizz_\Documents\GitHub\.Net-basics\Simple .Net ATM\Simple .Net ATM\bin\Debug\net6.0\Simple .Net ATM.dll
+C:\Users\fizz_\Documents\GitHub\.Net-basics\Simple .Net ATM\Simple .Net ATM\bin\Debug\net6.0\ref\Simple .Net ATM.dll
+C:\Users\fizz_\Documents\GitHub\.Net-basics\Simple .Net ATM\Simple .Net ATM\bin\Debug\net6.0\Simple .Net ATM.pdb
+C:\Users\fizz_\Documents\GitHub\.Net-basics\Simple .Net ATM\Simple .Net ATM\obj\Debug\net6.0\Simple .Net ATM.dll
+C:\Users\fizz_\Documents\GitHub\.Net-basics\Simple .Net ATM\Simple .Net ATM\obj\Debug\net6.0\ref\Simple .Net ATM.dll
+C:\Users\fizz_\Documents\GitHub\.Net-basics\Simple .Net ATM\Simple .Net ATM\obj\Debug\net6.0\Simple .Net ATM.pdb
+C:\Users\fizz_\Documents\GitHub\.Net-basics\Simple .Net ATM\Simple .Net ATM\obj\Debug\net6.0\Simple .Net ATM.genruntimeconfig.cache
