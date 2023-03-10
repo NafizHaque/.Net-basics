@@ -54,6 +54,61 @@ namespace Simple_.Net_ATM
             cardList.Add(new cardHolder("4532771698642316", 6727, "Harry", 932.80));
             cardList.Add(new cardHolder("4716054691134427", 2569, "Linda", 4009.96));
 
+
+            Console.WriteLine("Welcome to Simple .Net ATM");
+            Console.WriteLine("please insert card:");
+            string cardNumber = "";
+            cardHolder currentHolder = cardList[0];
+
+            while(true)
+            {
+                try
+                {
+                    cardNumber = Console.ReadLine();
+                    foreach (cardHolder card in cardList)
+                    {
+                        if (card.getNumber() == cardNumber)
+                        {
+                            currentHolder = card;
+                        }
+                    }
+                    if (currentHolder != null) { break; }
+                }
+                catch { Console.WriteLine("Error. Please try again"); }
+            }
+
+            Console.WriteLine("please enter pin");
+            int userPin = 0;
+            while (true)
+            {
+                try
+                {
+                    userPin = int.Parse(Console.ReadLine());
+                   if (currentHolder.getPin() == userPin) { break; }
+                    else { Console.WriteLine("error with pin. Please try again"); }
+                }
+                catch { Console.WriteLine("Error. Please try again"); }
+            }
+            Console.WriteLine($"Welcome {currentHolder.getName()} !");
+            int option = 0;
+            do
+            {
+                printOptions();
+                try
+                {
+                    option = int.Parse(Console.ReadLine());
+
+                }
+                catch { }
+                if(option == 1) { deposit(currentHolder); }
+                else if(option == 2) { withdraw(currentHolder); }
+                else if (option == 3) { balance(currentHolder); }
+                else if (option == 4) { break; }
+                else { option = 0; }
+            }
+            while (option != 4);
+
+           
         }
         
     }
