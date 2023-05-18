@@ -1,0 +1,15 @@
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\WarPreperations (records)\WarPreperations\obj\Debug\net6.0\WarPreperations.csproj.AssemblyReference.cache
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\WarPreperations (records)\WarPreperations\obj\Debug\net6.0\WarPreperations.GeneratedMSBuildEditorConfig.editorconfig
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\WarPreperations (records)\WarPreperations\obj\Debug\net6.0\WarPreperations.AssemblyInfoInputs.cache
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\WarPreperations (records)\WarPreperations\obj\Debug\net6.0\WarPreperations.AssemblyInfo.cs
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\WarPreperations (records)\WarPreperations\obj\Debug\net6.0\WarPreperations.csproj.CoreCompileInputs.cache
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\WarPreperations (records)\WarPreperations\bin\Debug\net6.0\WarPreperations.exe
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\WarPreperations (records)\WarPreperations\bin\Debug\net6.0\WarPreperations.deps.json
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\WarPreperations (records)\WarPreperations\bin\Debug\net6.0\WarPreperations.runtimeconfig.json
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\WarPreperations (records)\WarPreperations\bin\Debug\net6.0\WarPreperations.dll
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\WarPreperations (records)\WarPreperations\bin\Debug\net6.0\ref\WarPreperations.dll
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\WarPreperations (records)\WarPreperations\bin\Debug\net6.0\WarPreperations.pdb
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\WarPreperations (records)\WarPreperations\obj\Debug\net6.0\WarPreperations.dll
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\WarPreperations (records)\WarPreperations\obj\Debug\net6.0\ref\WarPreperations.dll
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\WarPreperations (records)\WarPreperations\obj\Debug\net6.0\WarPreperations.pdb
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\WarPreperations (records)\WarPreperations\obj\Debug\net6.0\WarPreperations.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\RoomCoordinates (structs)\RoomCoordinates\bin\Debug\net6.0\RoomCoordinates.exe
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\RoomCoordinates (structs)\RoomCoordinates\bin\Debug\net6.0\RoomCoordinates.deps.json
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\RoomCoordinates (structs)\RoomCoordinates\bin\Debug\net6.0\RoomCoordinates.runtimeconfig.json
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\RoomCoordinates (structs)\RoomCoordinates\bin\Debug\net6.0\RoomCoordinates.dll
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\RoomCoordinates (structs)\RoomCoordinates\bin\Debug\net6.0\ref\RoomCoordinates.dll
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\RoomCoordinates (structs)\RoomCoordinates\bin\Debug\net6.0\RoomCoordinates.pdb
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\RoomCoordinates (structs)\RoomCoordinates\obj\Debug\net6.0\RoomCoordinates.csproj.AssemblyReference.cache
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\RoomCoordinates (structs)\RoomCoordinates\obj\Debug\net6.0\RoomCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\RoomCoordinates (structs)\RoomCoordinates\obj\Debug\net6.0\RoomCoordinates.AssemblyInfoInputs.cache
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\RoomCoordinates (structs)\RoomCoordinates\obj\Debug\net6.0\RoomCoordinates.AssemblyInfo.cs
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\RoomCoordinates (structs)\RoomCoordinates\obj\Debug\net6.0\RoomCoordinates.csproj.CoreCompileInputs.cache
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\RoomCoordinates (structs)\RoomCoordinates\obj\Debug\net6.0\RoomCoordinates.dll
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\RoomCoordinates (structs)\RoomCoordinates\obj\Debug\net6.0\ref\RoomCoordinates.dll
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\RoomCoordinates (structs)\RoomCoordinates\obj\Debug\net6.0\RoomCoordinates.pdb
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Level22+\RoomCoordinates (structs)\RoomCoordinates\obj\Debug\net6.0\RoomCoordinates.genruntimeconfig.cache

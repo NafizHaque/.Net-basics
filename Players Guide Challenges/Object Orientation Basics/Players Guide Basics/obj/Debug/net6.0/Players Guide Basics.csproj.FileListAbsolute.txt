@@ -1,0 +1,30 @@
+F:\Business\TechStack\TechStack Practicals\Players Guide Basics\Players Guide Basics\obj\Debug\net6.0\Players Guide Basics.csproj.AssemblyReference.cache
+F:\Business\TechStack\TechStack Practicals\Players Guide Basics\Players Guide Basics\obj\Debug\net6.0\Players Guide Basics.GeneratedMSBuildEditorConfig.editorconfig
+F:\Business\TechStack\TechStack Practicals\Players Guide Basics\Players Guide Basics\obj\Debug\net6.0\Players Guide Basics.AssemblyInfoInputs.cache
+F:\Business\TechStack\TechStack Practicals\Players Guide Basics\Players Guide Basics\obj\Debug\net6.0\Players Guide Basics.AssemblyInfo.cs
+F:\Business\TechStack\TechStack Practicals\Players Guide Basics\Players Guide Basics\obj\Debug\net6.0\Players Guide Basics.csproj.CoreCompileInputs.cache
+F:\Business\TechStack\TechStack Practicals\Players Guide Basics\Players Guide Basics\bin\Debug\net6.0\Players Guide Basics.exe
+F:\Business\TechStack\TechStack Practicals\Players Guide Basics\Players Guide Basics\bin\Debug\net6.0\Players Guide Basics.deps.json
+F:\Business\TechStack\TechStack Practicals\Players Guide Basics\Players Guide Basics\bin\Debug\net6.0\Players Guide Basics.runtimeconfig.json
+F:\Business\TechStack\TechStack Practicals\Players Guide Basics\Players Guide Basics\bin\Debug\net6.0\Players Guide Basics.dll
+F:\Business\TechStack\TechStack Practicals\Players Guide Basics\Players Guide Basics\bin\Debug\net6.0\ref\Players Guide Basics.dll
+F:\Business\TechStack\TechStack Practicals\Players Guide Basics\Players Guide Basics\bin\Debug\net6.0\Players Guide Basics.pdb
+F:\Business\TechStack\TechStack Practicals\Players Guide Basics\Players Guide Basics\obj\Debug\net6.0\Players Guide Basics.dll
+F:\Business\TechStack\TechStack Practicals\Players Guide Basics\Players Guide Basics\obj\Debug\net6.0\ref\Players Guide Basics.dll
+F:\Business\TechStack\TechStack Practicals\Players Guide Basics\Players Guide Basics\obj\Debug\net6.0\Players Guide Basics.pdb
+F:\Business\TechStack\TechStack Practicals\Players Guide Basics\Players Guide Basics\obj\Debug\net6.0\Players Guide Basics.genruntimeconfig.cache
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Object Orientation Basics\Players Guide Basics\bin\Debug\net6.0\Players Guide Basics.exe
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Object Orientation Basics\Players Guide Basics\bin\Debug\net6.0\Players Guide Basics.deps.json
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Object Orientation Basics\Players Guide Basics\bin\Debug\net6.0\Players Guide Basics.runtimeconfig.json
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Object Orientation Basics\Players Guide Basics\bin\Debug\net6.0\Players Guide Basics.dll
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Object Orientation Basics\Players Guide Basics\bin\Debug\net6.0\ref\Players Guide Basics.dll
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Object Orientation Basics\Players Guide Basics\bin\Debug\net6.0\Players Guide Basics.pdb
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Object Orientation Basics\Players Guide Basics\obj\Debug\net6.0\Players Guide Basics.csproj.AssemblyReference.cache
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Object Orientation Basics\Players Guide Basics\obj\Debug\net6.0\Players Guide Basics.GeneratedMSBuildEditorConfig.editorconfig
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Object Orientation Basics\Players Guide Basics\obj\Debug\net6.0\Players Guide Basics.AssemblyInfoInputs.cache
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Object Orientation Basics\Players Guide Basics\obj\Debug\net6.0\Players Guide Basics.AssemblyInfo.cs
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Object Orientation Basics\Players Guide Basics\obj\Debug\net6.0\Players Guide Basics.csproj.CoreCompileInputs.cache
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Object Orientation Basics\Players Guide Basics\obj\Debug\net6.0\Players Guide Basics.dll
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Object Orientation Basics\Players Guide Basics\obj\Debug\net6.0\ref\Players Guide Basics.dll
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Object Orientation Basics\Players Guide Basics\obj\Debug\net6.0\Players Guide Basics.pdb
+F:\Business\TechStack\TechStack Practicals\Players Guide Challenges\Object Orientation Basics\Players Guide Basics\obj\Debug\net6.0\Players Guide Basics.genruntimeconfig.cache
